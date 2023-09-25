@@ -8,7 +8,7 @@ public class PR122cat {
 
         String basePath = System.getProperty("user.dir");
         System.out.println(basePath);
-        System.out.print("Ruta de l'arxiu de text (tenir en compte que estas a ../FilesReadWrite :) ");
+        System.out.print("Ruta de l'arxiu de text (tenir en compte que estas en el directori mostrat a sobre :) ");
         String inputPath = sc.next();
 
         String total_path = basePath+inputPath;
