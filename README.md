@@ -1,6 +1,6 @@
 ## ABANS D'EXECUTAR
 
-Executar l'arxiu Main.java des de el directori Base.
+Executar l'arxiu Main.java des del directori Base.
 
 ## Folder Structure
 
